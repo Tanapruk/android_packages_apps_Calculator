@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/GDK-ProgressBar/GDK-ProgressBar.iml" filepath="$PROJECT_DIR$/GDK-ProgressBar/GDK-ProgressBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/MathLibrary/MathLibrary.iml" filepath="$PROJECT_DIR$/MathLibrary/MathLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThemeEngine/ThemeEngine.iml" filepath="$PROJECT_DIR$/ThemeEngine/ThemeEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cm_calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/cm_calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/floating/floating.iml" filepath="$PROJECT_DIR$/floating/floating.iml" />
       <module fileurl="file://$PROJECT_DIR$/glass/glass.iml" filepath="$PROJECT_DIR$/glass/glass.iml" />
       <module fileurl="file://$PROJECT_DIR$/legacy-mobile/legacy-mobile.iml" filepath="$PROJECT_DIR$/legacy-mobile/legacy-mobile.iml" />
@@ -14,4 +15,3 @@
     </modules>
   </component>
 </project>
-
