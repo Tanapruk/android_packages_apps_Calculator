@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.calculator2">
+    package='com.android.calculator2'>
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
@@ -38,6 +38,7 @@
             android:windowSoftInputMode="stateAlwaysHidden">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.APP_CALCULATOR" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -84,10 +85,11 @@
             android:launchMode="singleInstance"
             android:noHistory="false"
             android:theme="@style/TransparentBackground" />
+
         <service android:name=".floating.FloatingCalculator">
             <intent-filter>
                 <action android:name="android.intent.action.CONFIGURATION_CHANGED" />
             </intent-filter>
         </service>
     </application>
-</manifest> 
+</manifest>
