@@ -18,3 +18,4 @@ public enum Base {
         return quickSerializable;
     }
 }
+ß
